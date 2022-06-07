@@ -11,7 +11,7 @@ STACK<br/>
 DEVOPS<br/>
 - Docker & Kubernetes<br/>
 - CI/CD jenkins<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymaoga&show_icons=true&theme=darcula)](https://github.com/anthonymaoga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymaoga&show_icons=true&theme=darcula)](https://github.com/anthonymaoga/github-readme-stats)<br/>
 [![anthonymaoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonymaoga&show_icons=true&theme=darcula)](https://github.com/anthonymaoga/github-readme-stats)
 <!---
 anthonymaoga/anthonymaoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
